@@ -19,7 +19,7 @@ What things you need to install the software.
 ## Install
 Clone the git repository on your computer
 ```
-$ git clone https://github.com/fisayoafolayan/news-app.git
+$ git clone https://github.com/KenMwaura1/laravel-news-app.git
 ```
 You can also download the entire repository as a zip file and unpack in on your computer if you do not have git
 
@@ -53,9 +53,4 @@ DEFAULT_NEWS_SOURCE_ID='cnn'
 ```
 $ php artisan serve
 ```
-## Links
-[Tutorial](https://fisayoafolayan.com/blog/build-a-news-aggregator-site-with-laravel/)
-
-[Live Demo](https://newsapi.fisayoafolayan.com/)
-
 
